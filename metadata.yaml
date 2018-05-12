@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31904
     wikipedia: http://en.wikipedia.org/wiki/Henry_Ware,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26308#Hints-on-Extemporaneous-Preaching
 gutenberg_issued: '2008-08-13'
 gutenberg_type: Text
 identifiers:
